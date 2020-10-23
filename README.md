@@ -31,3 +31,7 @@ video 27 https://www.youtube.com/watch?v=DlJOUUGjOU8
 video 28 https://www.youtube.com/watch?v=yTJHk9RV1hY
 
 video 29 https://www.youtube.com/watch?v=G5LpOyUg-nw
+
+
+-------------------------------------------------------------
+bitcoin donation: bc1qppnaphwqwshk6kqzaal28p5854cntslu0y5dw7
